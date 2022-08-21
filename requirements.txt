@@ -1,0 +1,4 @@
+pytelegtambotapi
+os
+pywhatkit
+dotenv
