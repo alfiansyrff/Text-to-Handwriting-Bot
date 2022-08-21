@@ -1,4 +1,4 @@
-pytelegtambotapi
+pytelegrambotapi
 os
 pywhatkit
 dotenv
