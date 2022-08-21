@@ -1,4 +1,3 @@
 pytelegrambotapi
-os
 pywhatkit
 dotenv
